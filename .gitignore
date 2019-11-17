@@ -21,3 +21,18 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/.idea/
+/.mvn/
+.idea/
+.mvn/wrapper/MavenWrapperDownloader.java
+.mvn/wrapper/maven-wrapper.properties
+Would skip repository mybatis-plus-demo/
+mybatis.iml
+target/classes/META-INF/
+target/classes/application-dev.yml
+target/classes/application.yml
+target/classes/mapper/
+target/generated-sources/
+target/generated-test-sources/
+/mybatis-plus-generator.iml

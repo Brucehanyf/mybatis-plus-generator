@@ -17,7 +17,8 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
 public class MpGenerator {
     public static final String OUTPUTDIR = "\\src\\main\\java";
     public static void main(String[] args) {
-        String sout = System.getProperty("user.dir") + OUTPUTDIR;
+        // String sout = System.getProperty("user.dir") + OUTPUTDIR;
+        String sout = "D:\\generate";
         String supperPackage = "com.boumidou";
         generaterCode(new String[]{"user"},sout,supperPackage);
     }

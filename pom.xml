@@ -20,7 +20,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <mybatis-plus-boot-starter.version>3.2.0</mybatis-plus-boot-starter.version>
         <mybatis-plus-generate.version>2.3.3</mybatis-plus-generate.version>
-        <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <lombok.version>1.18.10</lombok.version>
     </properties>
 
